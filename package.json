@@ -17,6 +17,6 @@
     "pug": "2.0.0-beta11"
   },
   "devDependencies": {
-    "bcrypt": "^3.0.7"
+    "bcrypt": "^5.0.0"
   }
 }
